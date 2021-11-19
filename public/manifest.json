@@ -1,6 +1,6 @@
 {
-  "name": "NextJS Avançado - Boilerplate",
-  "short_name": "NextJS Avançado",
+  "name": "My Trips",
+  "short_name": "My Trips",
   "icons": [
     {
       "src": "/img/icon-192.png",
@@ -17,5 +17,5 @@
   "start_url": "/",
   "display": "fullscreen",
   "theme_color": "#06092B",
-  "description": "NextJS, Typescript and Styled Components boilerplate."
+  "description": "A simple project to show places that i want to visit."
 }
