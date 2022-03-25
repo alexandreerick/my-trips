@@ -8,7 +8,7 @@ const Home: React.FC = () => {
   return (
     <>
       <LinkWrapper href="/about">
-        <InfoOutline color="black" size={32} aria-label="about" />
+        <InfoOutline size={32} aria-label="about" />
       </LinkWrapper>
       <Map
         places={[
